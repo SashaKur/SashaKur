@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oleksandr Kurchak
+- 👀 I’m interested in Software Development, specifically AI and Cybersecurity
+- 🌱 I’m currently learning .NET Core, Spring and PostgreSQL
+- 📫 How to reach me:
+-   - e-mail: olekkurchak@gmail.com

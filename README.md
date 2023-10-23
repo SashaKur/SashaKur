@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oleksandr Kurchak
 - 👀 I’m interested in Software Development, specifically AI and Cybersecurity
-- 🌱 I’m currently learning .NET Core, Spring and MySQL
+- 🌱 I’m currently learning TensorFlow and DVC
 - 📫 How to reach me:
     - e-mail: olekkurchak@gmail.com
